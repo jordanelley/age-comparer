@@ -23,7 +23,7 @@ function App() {
           <button> Login </button> <button> Sign Up</button>
         <img src={rock} className="App-logo" alt="logo" />
         <h1>
-            Are you older that Dwayne Johnson
+            Are you older than Dwayne Johnson
         </h1>
           <div>
               <label>
