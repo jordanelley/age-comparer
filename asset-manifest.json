@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pokeordle-rewrite/static/css/main.4ed7be26.css",
-    "main.js": "/pokeordle-rewrite/static/js/main.521baf8e.js",
-    "static/js/787.1d94e30b.chunk.js": "/pokeordle-rewrite/static/js/787.1d94e30b.chunk.js",
-    "static/media/rock.png": "/pokeordle-rewrite/static/media/rock.3c8e4dacd48f72cbe21f.png",
-    "index.html": "/pokeordle-rewrite/index.html",
-    "main.4ed7be26.css.map": "/pokeordle-rewrite/static/css/main.4ed7be26.css.map",
-    "main.521baf8e.js.map": "/pokeordle-rewrite/static/js/main.521baf8e.js.map",
-    "787.1d94e30b.chunk.js.map": "/pokeordle-rewrite/static/js/787.1d94e30b.chunk.js.map"
+    "main.css": "/age-comparer/static/css/main.4ed7be26.css",
+    "main.js": "/age-comparer/static/js/main.26a35664.js",
+    "static/js/787.1d94e30b.chunk.js": "/age-comparer/static/js/787.1d94e30b.chunk.js",
+    "static/media/rock.png": "/age-comparer/static/media/rock.3c8e4dacd48f72cbe21f.png",
+    "index.html": "/age-comparer/index.html",
+    "main.4ed7be26.css.map": "/age-comparer/static/css/main.4ed7be26.css.map",
+    "main.26a35664.js.map": "/age-comparer/static/js/main.26a35664.js.map",
+    "787.1d94e30b.chunk.js.map": "/age-comparer/static/js/787.1d94e30b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ed7be26.css",
-    "static/js/main.521baf8e.js"
+    "static/js/main.26a35664.js"
   ]
 }
